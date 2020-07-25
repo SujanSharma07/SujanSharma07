@@ -1,6 +1,9 @@
 ### Hi there 👋
 <h1>I am Sujan this side. </h1>
 
+###CONTACT ME
+<a1 href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin
+
 <!--
 **SujanSharma07/SujanSharma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
