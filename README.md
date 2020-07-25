@@ -2,10 +2,12 @@
 <h1>I am Sujan this side. </h1>
 
 <h1>Contact Me</h1>
-<a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'><b>Linkedin
+<a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin
   
 <a href='https://www.facebook.com/Sujan.Sharma07'>Facebook
+
 <a href='https://www.upwork.com/freelancers/~01e92b1f5bceb96b8a'>Upwork
+
 <a href='https://stackoverflow.com/users/13851812/sujan-sharma'>StackOverflow
     
     
