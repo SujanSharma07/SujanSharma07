@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>I am Sujan this side. </h1>
 <h1>💬 Ask me about: </h1>
-<h2 style='color:blue;'><b>Any of my repositories</b></h2>
+<h2 style='color:blue;'>Any of my repositories</h2>
 <h1>📫 How to reach me:</h1>
 <a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin  
 <br><a href='https://www.facebook.com/Sujan.Sharma07'>Facebook
