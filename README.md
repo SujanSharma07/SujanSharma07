@@ -1,29 +1,16 @@
-# Portfolio  or Resume or CV
-This repo contains a portfolio resume that showcases examples of your work along with the usual resume information about your work experience.
-It was created with HTML, CSS and Javascript. Its is lightweight and fully responsive, as well as comes with the Bootstrap.
+### Hi there 👋
+<h1>I am <a href='https://raw.githubusercontent.com/SujanSharma07/SujanSharma07/master/Profile.jpeg'><b>Sujan</b></a> this side. 
+</h1> 
 
-To view a live demo, [click here](https://SujanSharma07.github.io/)
+<h1>💬 Ask me about: </h1> 
+<h2 style="color:blue;">Any of My Repositories or Related Projects </h2> 
 
-## Features
-* Easy to integrate
-* Fully responsive
-* Bootstrap with few animations.
 
-## Setup
-* Clone the repository
-* Replaced the content with your's info.
+<h1>📫 How to reach me:</h1>
+ <a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin <br>
+<a href='https://www.facebook.com/Sujan.Sharma07'>Facebook <br>
+<a href='https://www.upwork.com/freelancers/~01e92b1f5bceb96b8a'>Upwork <br>
+<a href='https://stackoverflow.com/users/13851812/sujan-sharma'>Stackoverflow 
 
-## TODO
-* Have to setup Gulp or Webpack for minification of script files.
-* Make it dynamic
-* Provide feature to change the themes or colors easily.
 
-## Changelog
-
-### 1.0.0
-
-* Relesed stable version with basic content
-* Added skills section
-## License
-
-Completely free (MIT)!.
+<!-- **SujanSharma07/SujanSharma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
