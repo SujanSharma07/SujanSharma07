@@ -26,4 +26,4 @@ To view a live demo, [click here](https://SujanSharma07.github.io/)
 * Added skills section
 ## License
 
-Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
+Completely free (MIT)!.
