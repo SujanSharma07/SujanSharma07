@@ -1,6 +1,7 @@
 ### Hi there 👋
-<h1>I am <a href='https://raw.githubusercontent.com/SujanSharma07/SujanSharma07/master/Profile.jpeg'><b>Sujan</b></a> this side. 
+<h1>I am <a href='https://raw.githubusercontent.com/SujanSharma07/SujanSharma07/master/Assets/Profile.jpeg'><b>Sujan</b></a> this side. 
 </h1> 
+<img align="right" src="https://raw.githubusercontent.com/SujanSharma07/SujanSharma07/master/Assets/Developer.gif"/>
 
 <h1>💬 Ask me about: </h1> 
 <h2 style="color:blue;">Any of My Repositories or Related Projects </h2> 
