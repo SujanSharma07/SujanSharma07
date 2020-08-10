@@ -5,7 +5,7 @@
 
 <h1>💬 Ask me about: </h1> 
 <h2 style="color:blue;">Any of My Repositories or Related Projects </h2> 
-![github stats](https://github-readme-stats.vercel.app/api?username=SujanSharma07-111&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=SujanSharma07&hide=[%22issues%22]&show_icons=true&fbclid=IwAR0Rs987hKPwIY5zjTmd8tUR01m4eNG7H4bUDaRgoNHL6w94BIshXv7WQew)
 
 <h1>📫 How to reach me:</h1>
  <a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin <br>
