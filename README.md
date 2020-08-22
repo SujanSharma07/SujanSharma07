@@ -13,6 +13,7 @@
 
 
 <h1>📫 How to reach me:</h1>
+<img src="https://cdn.icon-icons.com/icons2/1269/PNG/512/1497553283-108_84845.png">
  <a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin <br>
 <a href='https://www.facebook.com/Sujan.Sharma07'>Facebook <br>
 <a href='https://www.upwork.com/freelancers/~01e92b1f5bceb96b8a'>Upwork <br>
