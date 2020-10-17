@@ -1,6 +1,4 @@
 ### Hi there 👋
-<h1>I am <a href='https://sujansharma07.github.io/index.html'><b>Sujan</b></a> this side. 
-</h1> 
 <img align="right" src="https://raw.githubusercontent.com/SujanSharma07/SujanSharma07/master/Assets/Developer.gif"/>
 
 <h1>💬 Ask me about: </h1> 
