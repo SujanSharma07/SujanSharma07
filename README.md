@@ -10,7 +10,7 @@
 
 [![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujanSharma07&show_icons=true&theme=radical)](https://github.com/sujansharma07/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujanSharma07&layout=compact)](https://github.com/sujansharma07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujanSharma07&layout=compact&theme=radical)](https://github.com/sujansharma07/github-readme-stats)
 
 
 
