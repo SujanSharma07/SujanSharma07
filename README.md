@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img align="right" src="https://raw.githubusercontent.com/SujanSharma07/SujanSharma07/master/Assets/Developer.gif"/>
 
-<h1>💬 Ask me about: </h1> 
+# 💬 Ask me about: #
 <h3 style="color:blue;">Any of My Repositories or Related Projects </h3> 
 
 
