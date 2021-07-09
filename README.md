@@ -15,17 +15,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujanSharma07&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github.com/SujanSharma07/github-readme-stats)
 
-<!--
-[!["Shiv Shakti's Github Stats](https://github-readme-stats.vercel.app/api?username=shivshaktisahoo&show_icons=true&theme=merko)](https://github.com/shivshaktisahoo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshaktisahoo&layout=compact&theme=radical)](https://github.com/shivshaktisahoo/github-readme-stats)
--->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SujanSharma07&theme=radical" alt="SujanSharma07" /></p>                               
                                  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SujanSharma07&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-<!-- ////////////////////////// END: Stats View /////////////////////// -->
 
 <hr>
 <div align="right">
