@@ -12,11 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SujanSharma07&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SujanSharma07&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<img align="right" src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)<img align="right" margin-buttom=2rem src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
                                  
