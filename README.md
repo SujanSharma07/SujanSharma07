@@ -18,15 +18,8 @@
 
 ---
                                  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SujanSharma07&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-
 <hr>
 <div align="right">
-  
-![visitor](https://visitor-badge.glitch.me/badge?page_id=SujanSharma07) ![profile count](https://komarev.com/ghpvc/?username=SujanSharma07&color=red) ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
-  
-  
-
 
 <!-- Readme builder 1: https://gprm.itsvg.in/  2: https://rahuldkjain.github.io/gh-profile-readme-generator/
 ![Sujan Sharma's github stats](https://github-readme-stats.vercel.app/api?username=SujanSharma07&hide=["issues"]&show_icons=true)
